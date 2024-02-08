@@ -1,1 +1,1 @@
-# Sololearn-C
+# Learning C - Sololearn
